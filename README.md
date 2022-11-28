@@ -1,4 +1,4 @@
-<img align="right" alt="coding"width="400"src="https://user-media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif>
+<img align="right" alt="coding"width="400"src="https://user-CzdMW7wnLn8AAAAC/coding.gif>
 <h1 align="center">Hi 👋, I'm Fatih Yılmaz</h1>
 <h3 align="center">A detail oriented Full - Stack Automation Test Engineer from Turkey</h3>
 
