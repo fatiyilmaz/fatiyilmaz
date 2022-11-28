@@ -18,4 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatiyilmaz&show_icons=true&locale=en" alt="fatiyilmaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatiyilmaz&" alt="fatiyilmaz" /></p>
+</div>
+
 ![Snake animation](https://github.com/fatiyilmz/fatiyilmz/blob/output/github-contribution-grid-snake.svg)
