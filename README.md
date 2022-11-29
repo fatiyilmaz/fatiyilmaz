@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih Yılmaz</h1>
 <h3 align="center">A detail oriented Full - Stack Automation Test Engineer from Turkey</h3>
+<img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/UbzWbYJselWGDvqqNT/giphy.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="fatiyilmaz" /> </p>
 
