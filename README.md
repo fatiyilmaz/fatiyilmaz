@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Yılmaz</h1>
-<h3 align="center">A detail oriented Full - Stack Automation Test Engineer from Turkey</h3>
+<h3 align="center">A detail oriented Full - Stack Automation Software Test Engineer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/UbzWbYJselWGDvqqNT/giphy.gif
 <img https://media1.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif?cid=ecf05e47b2zxram2mfq15enf6blj179kh51azjtp43ehy18l&rid=giphy.gif&ct=g     
 
