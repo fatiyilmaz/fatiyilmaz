@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Yılmaz</h1>
 <h2 align="center">A detail oriented Full - Stack Automation Software Test Engineer from Turkey</h2>
 <img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/UbzWbYJselWGDvqqNT/giphy.gif
-<img https://media1.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif?cid=ecf05e47b2zxram2mfq15enf6blj179kh51azjtp43ehy18l&rid=giphy.gif&ct=g    
-<img align="right" alt="Coding" width="800" src=https://giphy.com/gifs/mini-italia-manymini-uV5Py5wWTj7nHB19Ga
-<https://giphy.com/gifs/mini-italia-manymini-uV5Py5wWTj7nHB19Ga
+<img https://media1.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif?cid=ecf05e47b2zxram2mfq15enf6blj179kh51azjtp43ehy18l&rid=giphy.gif&ct=g 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="fatiyilmaz" /> </p>
 
