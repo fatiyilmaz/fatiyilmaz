@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/UbzWbYJselWGDvqqNT/giphy.gif
 <img https://media1.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif?cid=ecf05e47b2zxram2mfq15enf6blj179kh51azjtp43ehy18l&rid=giphy.gif&ct=g 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="fatiyilmaz" /> </p>
-
 - 📫 How to reach me **fatiylmz1212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
