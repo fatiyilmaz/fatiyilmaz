@@ -9,7 +9,7 @@
              
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fatih-y%c4%b1lmaz-7492311b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-y%c4%b1lmaz-7492311b2/" height="30" width="40" /></a> -> <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fatih-yılmaz-7492311b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/fatih-y%C4%B1lmaz-7492311b2?trk=profile-badge">Fatih Yılmaz</a></div>
+<a href="https://linkedin.com/in/fatih-y%c4%b1lmaz-7492311b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-y%c4%b1lmaz-7492311b2/" height="30" width="40" /></a> 
 </p>
 
 <h2 align="left">Skills: | Selenium | Java | Cucumber BDD | Test NG | JUnit | API | JIRA | SDLC & STLC | Agile - Scrum | Postman | Jenkins | JDBC | LAMBDA</h2> 
