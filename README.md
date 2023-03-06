@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="75%" height="auto" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" />
+  <img width="45%" height="auto" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" />
   </p>
 
 <h1 align="center">Hi 👋, I'm Fatih Yılmaz</h1>
