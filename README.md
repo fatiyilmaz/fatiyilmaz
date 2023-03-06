@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="45%" height="auto" src="file:///C:/Users/yy890/OneDrive/Masa%C3%BCst%C3%BC/giphy.gif.png" />
+  </p>
+
 <h1 align="center">Hi 👋, I'm Fatih Yılmaz</h1>
 <h3 align="center">A detail oriented Software QA Engineer from Turkey</h3>
 
