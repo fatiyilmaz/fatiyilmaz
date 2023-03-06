@@ -32,3 +32,5 @@ In addition to Java as a programming language, I used tools such as Selenium Web
 
 I am someone who values ​​communication. Therefore, harmony and order in teamwork is extremely important to me. My colleagues say that my communication side is very strong. In this way, the tasks that need to be handled as a team I can find a solution very quickly I like to learn new things and I am a cohesive employee who likes to complete my assigned tasks on time.
 
+  ## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
