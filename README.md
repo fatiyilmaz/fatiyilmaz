@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatiyilmaz&" alt="fatiyilmaz" /></p>
 
 <details>
- <summary><h3>👨‍💻 Fatıh's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Fatih's Coding Journey</h3></summary>
   I do Front-End and Back-End automation tests. My primary focus is to ensure the quality of software products and applications, I take care to be detail-oriented, and my skills include creating test plans.
 
 In addition to Java as a programming language, I used tools such as Selenium WebDriver, JUnit, TestNG and Cucumber as automation testing tools. I used tools such as API, SQL and JDBC for the backend. I used agile and waterfall testing methodologies in software development processes.
