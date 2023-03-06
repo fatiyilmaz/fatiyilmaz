@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="45%" height="auto" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" />
+  <img width="75%" height="auto" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" />
   </p>
 
 <h1 align="center">Hi 👋, I'm Fatih Yılmaz</h1>
@@ -35,8 +35,6 @@
 In addition to Java as a programming language, I used tools such as Selenium WebDriver, JUnit, TestNG and Cucumber as automation testing tools. I used tools such as API, SQL and JDBC for the backend. I used agile and waterfall testing methodologies in software development processes.
 
 I am someone who values ​​communication. Therefore, harmony and order in teamwork is extremely important to me. My colleagues say that my communication side is very strong. In this way, the tasks that need to be handled as a team I can find a solution very quickly I like to learn new things and I am a cohesive employee who likes to complete my assigned tasks on time.
-
-</p>
 
   ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
