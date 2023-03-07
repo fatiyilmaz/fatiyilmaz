@@ -9,14 +9,6 @@
 <img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/UbzWbYJselWGDvqqNT/giphy.gif
 <img https://media1.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif?cid=ecf05e47b2zxram2mfq15enf6blj179kh51azjtp43ehy18l&rid=giphy.gif&ct=g 
 
-- 📫 How to reach me **fatiylmz1212@gmail.com**
-             
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatih-y%c4%b1lmaz-7492311b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-y%c4%b1lmaz-7492311b2/" height="30" width="40" /></a>
-<a href="https://medium.com/@fatihylmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fatihylmz" height="30" width="40" /></a>  
-</p>
-
 <h2 align="left">Skills: CUCUMBER BDD | TESTNG | JUNIT | SELENIUM | API | CORE JAVA | GHERKİN | XML | LAMBDA | SQL | JDBC | JIRA | HTML&CSS | POSTMAN | JENKINS | GIT-GITHUB | BITBUCKET | AGILE-SCRUM</h2> 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +22,14 @@ In addition to Java as a programming language, I used tools such as Selenium Web
 
 I am someone who values ​​communication. Therefore, harmony and order in teamwork is extremely important to me. My colleagues say that my communication side is very strong. In this way, the tasks that need to be handled as a team I can find a solution very quickly I like to learn new things and I am a cohesive employee who likes to complete my assigned tasks on time.</h3>
 </details>  
+
+- 📫 How to reach me **fatiylmz1212@gmail.com**
+             
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fatih-y%c4%b1lmaz-7492311b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-y%c4%b1lmaz-7492311b2/" height="30" width="40" /></a>
+<a href="https://medium.com/@fatihylmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fatihylmz" height="30" width="40" /></a>  
+</p>
 
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
