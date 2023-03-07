@@ -38,3 +38,5 @@ I am someone who values ​​communication. Therefore, harmony and order in tea
 
   ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
