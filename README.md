@@ -28,15 +28,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatiyilmaz&" alt="fatiyilmaz" /></p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <details>
  <summary><h3>👨‍💻 Fatih's Coding Journey</h3></summary>
-  I do Front-End and Back-End automation tests. My primary focus is to ensure the quality of software products and applications, I take care to be detail-oriented, and my skills include creating test plans.
+  <h3 align="left"> I do Front-End and Back-End automation tests. My primary focus is to ensure the quality of software products and applications, I take care to be detail-oriented, and my skills include creating test plans.
 
 In addition to Java as a programming language, I used tools such as Selenium WebDriver, JUnit, TestNG and Cucumber as automation testing tools. I used tools such as API, SQL and JDBC for the backend. I used agile and waterfall testing methodologies in software development processes.
 
-I am someone who values ​​communication. Therefore, harmony and order in teamwork is extremely important to me. My colleagues say that my communication side is very strong. In this way, the tasks that need to be handled as a team I can find a solution very quickly I like to learn new things and I am a cohesive employee who likes to complete my assigned tasks on time.
+I am someone who values ​​communication. Therefore, harmony and order in teamwork is extremely important to me. My colleagues say that my communication side is very strong. In this way, the tasks that need to be handled as a team I can find a solution very quickly I like to learn new things and I am a cohesive employee who likes to complete my assigned tasks on time.</h3>
 
   ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
