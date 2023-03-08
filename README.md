@@ -2,8 +2,8 @@
   <img width="45%" height="auto" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" />
   </p>
 
-<h1 align="center">Hi 👋, I'm Fatih Yılmaz</h1>
-<h3 align="center">A detail oriented Software QA Engineer from Turkey</h3>
+<p align="center">
+<img width="45%" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAwMjQxNzc4NGI2ZDU4MTg5MjUxOWYzMDM1NjZmMDU1OTMxMmMwOCZjdD1n/tmCug0Cinb2mcrmjBV/giphy.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="fatiyilmaz" /> </p>
 <img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/UbzWbYJselWGDvqqNT/giphy.gif
