@@ -31,13 +31,16 @@ I am someone who values ​​communication. Therefore, harmony and order in tea
 <a href="https://medium.com/@fatihylmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fatihylmz" height="30" width="40" /></a>  
 </p>
 
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
-
+<details>
+<summary><h3>📊 Github Stats ✅</h3></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatiyilmaz&show_icons=true&locale=en&layout=compact" alt="fatiyilmaz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatiyilmaz&show_icons=true&locale=en" alt="fatiyilmaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatiyilmaz&" alt="fatiyilmaz" /></p>
+</details> 
+
+![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
   ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
