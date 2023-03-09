@@ -22,11 +22,17 @@
 
 <details>
  <summary><h3>👨‍💻 About Me ✅</h3></summary>
-  <h3 align="left"> I do Front-End and Back-End automation tests. My primary focus is to ensure the quality of software products and applications, I take care to be detail-oriented, and my skills include creating test plans.
+  <h3 align="left"> I automate front-end and back-end tests. My primary goal is to ensure the quality of software products and applications; I am detail-oriented, and I can create test plans.
 
-In addition to Java as a programming language, I used tools such as Selenium WebDriver, JUnit, TestNG and Cucumber as automation testing tools. I used tools such as API, SQL and JDBC for the backend. I used agile and waterfall testing methodologies in software development processes.
+In addition to Java as a programming language, I used automation testing tools such as Selenium WebDriver, JUnit, TestNG, and Cucumber. For the backend, I used API, SQL, and JDBC tools. In software development processes, I used agile and waterfall testing methodologies.
 
-I am someone who values ​​communication. Therefore, harmony and order in teamwork is extremely important to me. My colleagues say that my communication side is very strong. In this way, the tasks that need to be handled as a team I can find a solution very quickly I like to learn new things and I am a cohesive employee who likes to complete my assigned tasks on time.</h3>
+I place a high value on communication. Teamwork harmony and order are extremely important to me. My coworkers say I have excellent communication skills. This enables me to quickly solve collaborative tasks. I enjoy learning new things and strive to complete tasks on time.
+
+Software QA Engineer / Manual Testing / Automation Testing / Black Box Testing / API Testing 
+ Core Java ~ HTML&CSS ~ SQL ~ Selenium ~ JDBC ~ Git&GitHub ~ Bitbucket ~ JIRA ~ Jira XPath ~ Agile Methodology ~ Scrum ~ Kanban ~ Waterfall ~ SDLC ~ STLC ~ JUnit ~ Lambda ~ IntelliJ ~ XML ~ POM ~ Log4j2 ~ PostgreSQL ~ TestNG ~ Cucumber ~ Maven ~ VS Code ~ Selenium WebDriver ~ JMeter ~ Postman ~ Restful API ~ Jenkins ~ Selenium Grid ~ AWS 
+
+fatiylmz1212@gmail.com
+Istanbul/Turkey.</h3>
 </details>  
            
 <details>
