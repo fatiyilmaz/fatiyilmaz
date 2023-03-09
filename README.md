@@ -29,10 +29,7 @@ In addition to Java as a programming language, I used automation testing tools s
 I place a high value on communication. Teamwork harmony and order are extremely important to me. My coworkers say I have excellent communication skills. This enables me to quickly solve collaborative tasks. I enjoy learning new things and strive to complete tasks on time.
 
 Software QA Engineer / Manual Testing / Automation Testing / Black Box Testing / API Testing 
- Core Java ~ HTML&CSS ~ SQL ~ Selenium ~ JDBC ~ Git&GitHub ~ Bitbucket ~ JIRA ~ Jira XPath ~ Agile Methodology ~ Scrum ~ Kanban ~ Waterfall ~ SDLC ~ STLC ~ JUnit ~ Lambda ~ IntelliJ ~ XML ~ POM ~ Log4j2 ~ PostgreSQL ~ TestNG ~ Cucumber ~ Maven ~ VS Code ~ Selenium WebDriver ~ JMeter ~ Postman ~ Restful API ~ Jenkins ~ Selenium Grid ~ AWS 
-
-fatiylmz1212@gmail.com
-Istanbul/Turkey.</h3>
+ Core Java ~ HTML&CSS ~ SQL ~ Selenium ~ JDBC ~ Git&GitHub ~ Bitbucket ~ JIRA ~ Jira XPath ~ Agile Methodology ~ Scrum ~ Kanban ~ Waterfall ~ SDLC ~ STLC ~ JUnit ~ Lambda ~ IntelliJ ~ XML ~ POM ~ Log4j2 ~ PostgreSQL ~ TestNG ~ Cucumber ~ Maven ~ VS Code ~ Selenium WebDriver ~ JMeter ~ Postman ~ Restful API ~ Jenkins ~ Selenium Grid ~ AWS </h3>
 </details>  
            
 <details>
