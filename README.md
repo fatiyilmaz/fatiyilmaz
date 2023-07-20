@@ -28,8 +28,14 @@ In addition to Java as a programming language, I used automation testing tools s
 
 I place a high value on communication. Teamwork harmony and order are extremely important to me. My coworkers say I have excellent communication skills. This enables me to quickly solve collaborative tasks. I enjoy learning new things and strive to complete tasks on time.
 
-Software QA Engineer / Manual Testing / Automation Testing / Black Box Testing / API Testing 
- Core Java ~ HTML&CSS ~ SQL ~ Selenium ~ JDBC ~ Git&GitHub ~ Bitbucket ~ JIRA ~ Jira XPath ~ Agile Methodology ~ Scrum ~ Kanban ~ Waterfall ~ SDLC ~ STLC ~ JUnit ~ Lambda ~ IntelliJ ~ XML ~ POM ~ Log4j2 ~ PostgreSQL ~ TestNG ~ Cucumber ~ Maven ~ VS Code ~ Selenium WebDriver ~ JMeter ~ Postman ~ Restful API ~ Jenkins ~ Selenium Grid ~ AWS </h3>
+Testing Skill: UI Testing, API Testing, Database Testing.
+Testing Types: Smoke, Regression, End To End, API and Database Testing.
+Testing Tools: Selenium, WebDriver, Selenium Grid, JUnit, TestNG, Cucumber BDD, REST Assured, Postman, JDBC, Maven, Docker.
+Languages: Core Java.
+Databases: PostgreSQL.
+Tracking Tools & Clouds: Jira, Bitbucket, Git and Git-Hub, Jenkins.
+Web Technologies: HTML5 and CSS3. 
+ </h3>
 </details>  
            
 <details>
