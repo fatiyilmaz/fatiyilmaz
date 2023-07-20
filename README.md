@@ -32,7 +32,7 @@ Testing Skill: UI Testing, API Testing, Database Testing.
 
 Testing Types: Smoke, Regression, End To End, API and Database Testing.
 
-Testing Tools: Selenium, WebDriver, Selenium Grid, JUnit, TestNG, Cucumber BDD, REST Assured, Postman, JDBC, Maven, Docker.
+Testing Tools: Selenium, WebDriver, Selenium Grid, JUnit, TestNG, Cucumber BDD, REST Assured, Postman, JDBC, Maven.
 
 Languages: Core Java.
 
