@@ -28,16 +28,38 @@ Proven expertise in developing and executing high quality test cases using a var
 I value communication, teamwork, harmony and order are extremely important to me. Versatile, Detail-oriented and result-oriented, I enjoy learning new information and strive to complete tasks on time.
 Native Turkish and intermediate level English open to improvement.
 
-Testing Skill: UI Testing, API Testing, Database Testing.
-Testing Types: Smoke Testing, Regression Testing, End To End Testing.
-Testing Tools: Selenium, WebDriver, Cucumber BDD, JUnit, TestNG, Selenium Grid, REST Assured, Postman, JDBC, Maven.
-Languages: Core Java.
-Databases: PostgreSQL.
-Tracking Tools & Clouds: Jira, Bitbucket, Git and Git-Hub, Jenkins.
-Web Technologies: HTML5 and CSS3. 
+Languages: Core Java, Lambda, Xml
+
+IDE: IntelliJ, Visual Studio Code
+
+Tools: Selenium WebDriver, Cucumber, Maven, Jenkins, SeleniumGrid
+
+Management Tools: Jira/Xray
+
+Version Control System: Git/GitHub, Bitbucket
+
+Web Technologies: HTML5, CSS3
+
+Frameworks: Data Driven, Behavior Data Driven, TestNG, Junit, POM
+
+API: Postman, Restful API Library
+
+Database: PL/SQL Language, JDBC 
+
+Mobile Testing: Appium - Basic level
+
+Performance testing: JMeter - Basic level
+
+DevOps: AWS E2E -  Basic level
+
+Testing Skill: UI Testing, API Testing, Database Testing
+
+Testing Types: Smoke Testing, Regression Testing, End To End Testing
 
 fatiylmz1212@gmail.com
+
 Istanbul/Turkey
+
 +90 555 0030984
  </h3>
 </details>  
