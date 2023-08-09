@@ -22,25 +22,23 @@
 
 <details>
  <summary><h3>👨‍💻 About Me ✅</h3></summary>
-  <h3 align="left"> I automate front-end and back-end tests. My primary goal is to ensure the quality of software products and applications; I am detail-oriented, and I can create test plans.
+  <h3 align="left"> As an ISTQB certified Software Test Engineer with more than 1 year of experience in manual testing and automation testing
+Proven expertise in developing and executing high quality test cases using a variety of testing techniques.
 
-In addition to Java as a programming language, I used automation testing tools such as Selenium WebDriver, JUnit, TestNG, and Cucumber. For the backend, I used API, SQL, and JDBC tools. In software development processes, I used agile and waterfall testing methodologies.
-
-I place a high value on communication. Teamwork harmony and order are extremely important to me. My coworkers say I have excellent communication skills. This enables me to quickly solve collaborative tasks. I enjoy learning new things and strive to complete tasks on time.
+I value communication, teamwork, harmony and order are extremely important to me. Versatile, Detail-oriented and result-oriented, I enjoy learning new information and strive to complete tasks on time.
+Native Turkish and intermediate level English open to improvement.
 
 Testing Skill: UI Testing, API Testing, Database Testing.
-
-Testing Types: Smoke, Regression, End To End, API and Database Testing.
-
-Testing Tools: Selenium, WebDriver, Selenium Grid, JUnit, TestNG, Cucumber BDD, REST Assured, Postman, JDBC, Maven.
-
+Testing Types: Smoke Testing, Regression Testing, End To End Testing.
+Testing Tools: Selenium, WebDriver, Cucumber BDD, JUnit, TestNG, Selenium Grid, REST Assured, Postman, JDBC, Maven.
 Languages: Core Java.
-
 Databases: PostgreSQL.
-
 Tracking Tools & Clouds: Jira, Bitbucket, Git and Git-Hub, Jenkins.
-
 Web Technologies: HTML5 and CSS3. 
+
+fatiylmz1212@gmail.com
+Istanbul/Turkey
++90 555 0030984
  </h3>
 </details>  
            
