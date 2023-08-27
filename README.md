@@ -58,9 +58,6 @@ Testing Types: Smoke Testing, Regression Testing, End To End Testing
 
 fatiylmz1212@gmail.com
 
-Istanbul/Turkey
-
-+90 555 0030984
  </h3>
 </details>  
            
