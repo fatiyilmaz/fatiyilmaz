@@ -18,39 +18,18 @@
 
 <details>
  <summary><h3>👨‍💻 About Me ✅</h3></summary>
-  <h3 align="left"> As an ISTQB certified Software Test Engineer with more than 1 year of experience in manual testing and automation testing
-Proven expertise in developing and executing high quality test cases using a variety of testing techniques.
+  <h3 align="left">
+Fatih Yılmaz
+Software Test Engineer
 
-I value communication, teamwork, harmony and order are extremely important to me. Versatile, Detail-oriented and result-oriented, I enjoy learning new information and strive to complete tasks on time.
-Native Turkish and intermediate level English open to improvement.
-
-Languages: Core Java, Lambda, Xml
-
-IDE: IntelliJ, Visual Studio Code
-
-Tools: Selenium WebDriver, Cucumber, Maven, Jenkins, SeleniumGrid
-
-Management Tools: Jira/Xray
-
-Version Control System: Git/GitHub, Bitbucket
-
-Web Technologies: HTML5, CSS3
-
-Frameworks: Data Driven, Behavior Data Driven, TestNG, Junit, POM
-
-API: Postman, Restful API Library
-
-Database: PL/SQL Language, JDBC 
-
-Mobile Testing: Appium - Basic level
-
-Performance testing: JMeter - Basic level
-
-DevOps: AWS E2E -  Basic level
-
-Testing Skill: UI Testing, API Testing, Database Testing
-
-Testing Types: Smoke Testing, Regression Testing, End To End Testing
+At least 1+ year of experience as a Software Test Engineer with significant experience in Manual Testing, Automation Testing, UI Testing, API Testing, Database Testing, Test Reports and Web Service Applications.
+I have ISTQB certificate.
+Good communication and writing skills. Ability to work with everyone as a team player.
+I am always eager to learn new skills and improve myself. I like to teach and lead with the knowledge I have learned.
+Taking it step by step with a detail-oriented approach. Testing where bugs can occur from a user perspective.
+Problem solving skills, such as conflict issues or framework exceptions.
+I am a fast learner, I enjoy what I do and I want to have more experience.
+Native Turkish and intermediate level English(A2) open to improvement.
 
 fatiylmz1212@gmail.com
 
