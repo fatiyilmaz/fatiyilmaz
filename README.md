@@ -19,19 +19,23 @@
 <details>
  <summary><h3>👨‍💻 About Me ✅</h3></summary>
   <h3 align="left">
-Fatih Yılmaz
-Software Test Engineer
-
+Fatih Yilmaz
+    
 At least 1+ year of experience as a Software Test Engineer with significant experience in Manual Testing, Automation Testing, UI Testing, API Testing, Database Testing, Test Reports and Web Service Applications.
-I have ISTQB certificate.
-Good communication and writing skills. Ability to work with everyone as a team player.
-I am always eager to learn new skills and improve myself. I like to teach and lead with the knowledge I have learned.
-Taking it step by step with a detail-oriented approach. Testing where bugs can occur from a user perspective.
-Problem solving skills, such as conflict issues or framework exceptions.
-I am a fast learner, I enjoy what I do and I want to have more experience.
-Native Turkish and intermediate level English(A2) open to improvement.
 
-fatiylmz1212@gmail.com
+I have ISTQB certificate.
+
+Good communication and writing skills. Ability to work with everyone as a team player.
+
+I am always eager to learn new skills and improve myself. I like to teach and lead with the knowledge I have learned.
+
+Taking it step by step with a detail-oriented approach. Testing where bugs can occur from a user perspective.
+
+Problem solving skills, such as conflict issues or framework exceptions.
+
+I am a fast learner, I enjoy what I do and I want to have more experience.
+
+Native Turkish and intermediate level English(A2) open to improvement.
 
  </h3>
 </details>  
